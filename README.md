@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HectorBaril
-- 👀 I’m interested in nex technologies and AI
+- 👀 I’m interested in new technologies and AI
 - 🌱 I’m currently learning Xarray
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
